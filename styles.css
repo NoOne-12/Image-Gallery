@@ -39,11 +39,11 @@ h2 {
   scroll-behavior: smooth;
   padding: 10px;
   gap: 15px;
-  scrollbar-width: none; /* Firefox */
+  scrollbar-width: none; 
 }
 
 .gallery::-webkit-scrollbar {
-  display: none; /* Chrome/Safari */
+  display: none; 
 }
 
 .gallery img {
